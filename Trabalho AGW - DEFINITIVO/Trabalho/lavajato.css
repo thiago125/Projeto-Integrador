@@ -1,0 +1,75 @@
+body{
+ background : white;	
+	
+}
+
+
+h1{
+	font-color: yellow;
+	
+}
+
+.coluna{
+	border-style: solid;
+	border-color: white;
+}
+
+.fundo1{
+	background-color: black;
+	padding: 12px;
+
+}
+
+.fundo2{
+	
+	background-color:000000;
+	padding:20px;
+	text-align: center;
+	
+}
+
+.imagem{
+	position:relative;
+	width: 1920px;
+	height: 600px;
+	right: 15px;
+}
+.imagem_contato{
+	position: relative;
+	width: 1906px;
+	height: 225px;
+	right: 14px;
+}
+
+*{
+	margin: 0;
+	padding:0;
+}
+
+
+
+b{
+	color: black;
+}
+
+.teste3{
+	right: 235px;
+	padding-top: 30px;
+}
+.texto_contato{
+	text-align: center;
+	padding: 10px;
+
+}
+.texto{
+	padding-top: 12%;
+}
+
+.cadastro{
+	color: white;
+	
+}
+.padding{
+	padding: 40px;
+	padding-right: 20%;
+}
